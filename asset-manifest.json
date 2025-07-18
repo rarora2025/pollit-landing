@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pollit-landing/static/css/main.cbe48570.css",
+    "main.js": "/pollit-landing/static/js/main.8489d249.js",
+    "static/js/453.2e5411d0.chunk.js": "/pollit-landing/static/js/453.2e5411d0.chunk.js",
+    "index.html": "/pollit-landing/index.html",
+    "main.cbe48570.css.map": "/pollit-landing/static/css/main.cbe48570.css.map",
+    "main.8489d249.js.map": "/pollit-landing/static/js/main.8489d249.js.map",
+    "453.2e5411d0.chunk.js.map": "/pollit-landing/static/js/453.2e5411d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbe48570.css",
+    "static/js/main.8489d249.js"
+  ]
+}
